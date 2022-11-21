@@ -1,1 +1,5 @@
-# Amazon-Reviews-Classifier
+<!-- @format -->
+
+# Amazon-Reviews-Classifiers
+
+Amazon Review Classifiers uses the [Amazon Review Data (2018)](https://nijianmo.github.io/amazon/index.html) dataset to create a Machine Learning model that determines whether a review is favorable or not. We use the [Databricks Community edition](https://www.databricks.com/product/faq/community-edition) with [PySpark](https://spark.apache.org/docs/latest/api/python/) to build this project.
