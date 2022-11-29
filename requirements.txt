@@ -4,3 +4,4 @@ matplotlib==3.6
 scikit-learn==1.1
 seaborn==0.12.1
 nltk==3.7
+contractions==0.1.73
