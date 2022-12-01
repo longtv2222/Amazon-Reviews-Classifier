@@ -12,3 +12,4 @@ plotly==5.11.0
 nbformat==5.7.0
 # PySpark dependencies (required)
 py4j
+findspark==2.0.1
